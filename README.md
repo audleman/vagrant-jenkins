@@ -1,4 +1,2 @@
-vagrant-jenkins
+jenkins-vagrant
 ===============
-
-Vagrantfile and the SaltStack necessary to bootstrap an Ubuntu box with Jenkins running 
